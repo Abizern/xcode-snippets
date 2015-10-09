@@ -1,7 +1,9 @@
 # xcode-snippets
-A few code snippets Based on those by Mattt at https://github.com/Xcode-Snippets/Objective-C
+Swift 2 snippets for Xcode
 
-# Installing Snippets
+Just a few for the moment, based on those by Matt Thompson at https://github.com/Xcode-Snippets/Objective-C
+
+# Installing The Snippets
 
 ## Manually
 
@@ -9,7 +11,7 @@ In Xcode 7, open a workspace and toggle the right sidebar to be visible. On the 
 
 Now copy-paste the code from one of these snippets, highlight the code block you just pasted and drag it to the Code Snippet panel. Make sure to match the suggested platform, language, and completion scope. The completion shortcut corresponds to the filename of the code snippet.
 
-## Using the xcodesnippet gem
+## Using the xcodesnippet gem (by @mattt, does the guy ever sleep?)
 
 First, install the gem `gem install xcodesnippet`
 
