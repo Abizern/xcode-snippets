@@ -11,7 +11,8 @@ In Xcode 7, open a workspace and toggle the right sidebar to be visible. On the 
 
 Now copy-paste the code from one of these snippets, highlight the code block you just pasted and drag it to the Code Snippet panel. Make sure to match the suggested platform, language, and completion scope. The completion shortcut corresponds to the filename of the code snippet.
 
-## Using the xcodesnippet gem (by @mattt, does the guy ever sleep?)
+## Using the xcodesnippet gem 
+_by @mattt, does the guy ever sleep?_
 
 First, install the gem `gem install xcodesnippet`
 
