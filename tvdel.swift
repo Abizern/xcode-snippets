@@ -7,7 +7,7 @@ completion-scope: Class Implementation
 
 extension <#Class#> : UITableViewDelegate {
 
-    func tableView(tableView: UITableView, didDeselectRowAtIndexPath indexPath: NSIndexPath) {
+    func tableView(tableView: UITableView, didSelectRowAtIndexPath indexPath: NSIndexPath) {
         <#code#>
     }
     
