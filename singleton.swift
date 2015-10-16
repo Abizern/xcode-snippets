@@ -8,7 +8,7 @@ final class <#Singleton#> {
 
     static let sharedInstance = <#Singleton#>()
 
-    init() {
+    private init() {
         <#code#>
     }
     
