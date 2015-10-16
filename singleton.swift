@@ -4,7 +4,7 @@ summary: "Definition for a singleton class"
 completion-scope: Class Implementation
 ---
 
-class <#Singleton#> {
+final class <#Singleton#> {
 
     static let sharedInstance = <#Singleton#>()
 
