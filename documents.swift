@@ -1,5 +1,6 @@
 ---
 title: "Documents Directory Path"
+summary: "Returns the URL for the documents directory wrapped in a guard."
 completion-scope: Function or Method
 ---
 
